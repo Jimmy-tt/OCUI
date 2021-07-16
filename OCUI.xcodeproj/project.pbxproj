@@ -17,6 +17,9 @@
 		87533D312697F32500AF4100 /* OCUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 87533D302697F32500AF4100 /* OCUITests.m */; };
 		87533D3C2697F32500AF4100 /* OCUIUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 87533D3B2697F32500AF4100 /* OCUIUITests.m */; };
 		87533D5F269849F100AF4100 /* ViewController1.m in Sources */ = {isa = PBXBuildFile; fileRef = 87533D5E269849F100AF4100 /* ViewController1.m */; };
+		878358FD26A1A6FE00176F19 /* wechat.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 878358FA26A1A6FE00176F19 /* wechat.jpeg */; };
+		878358FE26A1A6FE00176F19 /* leaf.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 878358FB26A1A6FE00176F19 /* leaf.jpeg */; };
+		878358FF26A1A6FE00176F19 /* light.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 878358FC26A1A6FE00176F19 /* light.jpeg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -57,6 +60,9 @@
 		87533D3D2697F32500AF4100 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		87533D5D269849F100AF4100 /* ViewController1.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController1.h; sourceTree = "<group>"; };
 		87533D5E269849F100AF4100 /* ViewController1.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController1.m; sourceTree = "<group>"; };
+		878358FA26A1A6FE00176F19 /* wechat.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = wechat.jpeg; sourceTree = "<group>"; };
+		878358FB26A1A6FE00176F19 /* leaf.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = leaf.jpeg; sourceTree = "<group>"; };
+		878358FC26A1A6FE00176F19 /* light.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = light.jpeg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -87,6 +93,9 @@
 		872C6009269C65C6005FB62C /* pic */ = {
 			isa = PBXGroup;
 			children = (
+				878358FB26A1A6FE00176F19 /* leaf.jpeg */,
+				878358FC26A1A6FE00176F19 /* light.jpeg */,
+				878358FA26A1A6FE00176F19 /* wechat.jpeg */,
 				872C600D269C6779005FB62C /* try.jpeg */,
 			);
 			path = pic;
@@ -253,8 +262,11 @@
 			buildActionMask = 2147483647;
 			files = (
 				872C6005269C62E3005FB62C /* connector.plist in Resources */,
+				878358FE26A1A6FE00176F19 /* leaf.jpeg in Resources */,
+				878358FF26A1A6FE00176F19 /* light.jpeg in Resources */,
 				87533D212697F32500AF4100 /* Assets.xcassets in Resources */,
 				872C600E269C6779005FB62C /* try.jpeg in Resources */,
+				878358FD26A1A6FE00176F19 /* wechat.jpeg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

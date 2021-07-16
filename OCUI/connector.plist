@@ -10,19 +10,19 @@
 	</dict>
 	<dict>
 		<key>image</key>
-		<string>try</string>
+		<string>leaf</string>
 		<key>name</key>
 		<string>Bob</string>
 	</dict>
 	<dict>
 		<key>image</key>
-		<string>try</string>
+		<string>light</string>
 		<key>name</key>
 		<string>Lisa</string>
 	</dict>
 	<dict>
 		<key>image</key>
-		<string>try</string>
+		<string>wechat</string>
 		<key>name</key>
 		<string>Jimmy</string>
 	</dict>
